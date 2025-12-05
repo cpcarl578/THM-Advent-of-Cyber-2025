@@ -1,1 +1,66 @@
-# THM-Advent-of-Cyber-2025
+# Advent of Cyber 2025 on TryHackMe
+
+
+
+
+![Static Badge](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white&labelColor=black&color=yellow) ![Static Badge](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white&labelColor=red&color=green) ![Static Badge](https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white&labelColor=gray&color=blue)
+
+
+
+
+
+
+
+
+
+
+
+
+#### Learning a new concept in Cybersecurity every day until christmas!
+
+
+
+
+##### A few of the concepts that are being covered by TryHackMe
+- OSINT
+- LINUX CLI
+- Web attack forensics
+- Malware Analysis
+- Social Engineering
+- AWS security
+ 
+##### Other Concepts I am learning everyday for Writeups.
+- Markdown syntax (using this to complete write ups)
+- GitHub 
+
+
+
+
+
+
+## __Why did I make this Repository ?__
+I have been very focused on learning  the fundamentals of  cybersecurity and have not displayed much of what I have learned so far in 2025. During the AOC 2025 I am taking this oppurtunity to learn  use  of GitHub to provide writeups, screenshots, and lessons learned everyday as well as review my understanding of the concepts. I also hope someone else out there is encouraged by this Repo to start learning and continue learning daily. 
+
+
+
+
+## __What will be in this repository?__
+I will be providing  write ups using Markdown syntax, Screen shots, Screen recordings,  thoughts, and lessons learned to build my online portfolio and demonstrate my continued learning and passion for cybersecurity.
+
+## __Write Ups__
+
+| Day | Title | Link|
+|----|------|------|
+Day 1 | Linux CLI-Shells Bells |[Link Text](https://example.com) |
+Day 2 | Phishing-Merry Clickmas |[Link Text](https://example.com) |
+Day 3 | Splunk Basics-Did you SIEM?|[Link Text](https://example.com) |
+Day 4 | AI in security-old sAInt nick |[Link Text](https://example.com) |
+
+
+
+
+
+
+
+
+
