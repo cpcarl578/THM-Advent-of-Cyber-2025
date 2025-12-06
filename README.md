@@ -51,10 +51,10 @@ I will be providing  write ups using Markdown syntax, Screen shots, Screen recor
 
 | Day | Title | Link|
 |----|------|------|
-Day 1 | Linux CLI-Shells Bells |[Link Text](https://example.com) |
+Day 1 | Linux CLI-Shells Bells |[View Day 1](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/tree/main/Day%201) |
 Day 2 | Phishing-Merry Clickmas |[Link Text](https://example.com) |
-Day 3 | Splunk Basics-Did you SIEM?|[View Day 3](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Advent%20of%20Cyber%20day%203-%20Did%20you%20SIEM_-SPLUNK%20basics.md) |
-Day 4 | AI in security-old sAInt nick |[Link Text](https://example.com) |
+Day 3 | Splunk Basics-Did you SIEM?|[View Day 3](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/tree/main/Day%203) |
+Day 4 | AI in security-old sAInt nick |[View Day 4](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/tree/main/Day%204) |
 
 
 
