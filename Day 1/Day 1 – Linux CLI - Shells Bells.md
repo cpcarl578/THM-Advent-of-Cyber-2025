@@ -29,8 +29,8 @@ The last commands executed by the root user contained another hidden flag.
 
 ## Flags
 
-THM{learning-linux-cli}
-THM{sir-carrotbane-attacks}
+- THM{learning-linux-cli}
+- THM{sir-carrotbane-attacks}
 
 ## Lessons Learned
 
@@ -40,4 +40,5 @@ THM{sir-carrotbane-attacks}
 ## Further thoughts.
 
 This was a great opener with familiar commands within Linux. It had a few extra I hadn't worked with before as well as learning about /var/log/auth.log/ and .bash_history for analysis.
+
 
