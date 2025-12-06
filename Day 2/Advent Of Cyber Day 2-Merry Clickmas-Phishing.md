@@ -1,4 +1,4 @@
-#  Advent of Cyber Day 2 Merry Clickmas- Phisihing
+#  Advent of Cyber Day 2 Merry Clickmas- Phishing
 
 ![Static Badge](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white&labelColor=black&color=yellow)
 
@@ -35,3 +35,4 @@
 ## Takeaways
 
 Today was a ton of fun as I got to use phishing and play the attacker. I was amazed at how easy it is to send a Phishing Email using using SET to assist me Via command line. I have some prior knowledge of the CLI from before I began the advent of cyber which helped me focus a little more on the challenges and use of The Social Engineer Toolkit.
+
