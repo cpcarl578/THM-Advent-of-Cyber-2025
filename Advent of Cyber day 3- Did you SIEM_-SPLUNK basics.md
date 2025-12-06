@@ -1,4 +1,7 @@
-# Advent of Cyber Day 3 Did you SIEM?-Splunk Basics
+# Advent of Cyber Day 3 Did you SIEM?-Splunk Basics 
+
+![Static Badge](https://img.shields.io/badge/Splunk-Exposure-gray?logo=splunk&logoColor=orange&color=blue)
+
 
 ## Objectives
 
@@ -22,5 +25,6 @@ There were four main objectives of this lab. The first objective was to learn ho
 
 
 ## Takeaways
+
 
 In this lab I was able to use SPLUNK for the first time and was exposed to the processing language that is used to properly refine log results. This was my first time ever using a SIEM tool so it took me a lot longer than previous labs to complete. I have gained a very basic understanding of how SPLUNK works and will continue learning how to use it as well as SPL. I enjoyed being able to refine massive amounts of log files and determine some anomalies of a network. 
