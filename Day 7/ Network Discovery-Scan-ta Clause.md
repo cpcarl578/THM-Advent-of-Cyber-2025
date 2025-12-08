@@ -1,6 +1,5 @@
 # Day 7 Network Discovery-Scan-ta Clause
 
-![Static Badge](https://img.s hields.io/badge/Linux-yellow?logo=linux&logoColor=white&labelColor=black&color=yellow)
 
 ## Objectives
 
@@ -73,3 +72,4 @@
 ## Takeaways
 
 Todays room was looking into open ports on a network using Nmap and Ncat via the CLI. After this room I have a very basic understanding of using Nmap and Ncat and after the Advent of cyber I am sure that my continued learning will delve even deeper into these tools. I am a visual learner and up until the AOC started I have only read about these tools so it was nice to  visually see how they function and why they are important.
+
