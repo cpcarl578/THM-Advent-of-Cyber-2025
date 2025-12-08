@@ -57,8 +57,8 @@ Day 3 | Splunk Basics-Did you SIEM?|[View Day 3](https://github.com/cpcarl578/TH
 Day 4 | AI in security-old sAInt nick |[View Day 4](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day%204/Advent%20of%20Cyber%20Day%204%20AI%20in%20Security-%20Old%20sAInt%20nick%20basic.md) |
 Day 5 | IDOR-Santa's Little IDOR |[View Day 5](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day%205/Advent%20Of%20Cyber%20Day%205-IDOR-Santas%20Little%20IDOR.md) | 
 Day 6 | Malware Analysis - Egg-xecutable|[View Day 6](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day%206/Advent%20of%20Cyber%20Day%206-Malware%20analysis.md)
-Day 7 | Network Discovery - Scan-ta Clause|[View Day 7](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day%207/%20Network%20Discovery-Scan-ta%20Clause.md)
-
+Day 7 | Network Discovery - Scan-ta Clause|[View Day 7](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day%207/%20Network%20Discovery-Scan-ta%20Clause.md) |
+Day 8 | Promp Injection - Sched-yule conflict|[Coming soon]|
 
 
 
