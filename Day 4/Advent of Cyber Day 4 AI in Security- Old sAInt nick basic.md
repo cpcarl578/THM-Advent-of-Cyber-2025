@@ -46,12 +46,12 @@
 17. Go to target IP address and log in using alice or "1=1 -- -" 
 18. confirm we can login and access the [FLAG:THM{SQLI_EXPLOIT]
 19. Stage three of using Van SolveIT-Blue team
-20. Ask AI to analyse logs and it has detected a breach in the system and outputs an analysis of the code  SEEE SCREENSHOTS
-21. AI tells us that a malicous code was executed more screenshots
-22. AI BREAKS DOWN with helpful insights
-23. stage 4 of using Van SolveIT Software
-24. The Software assistant analyses sources code from the exploit with helpful insights and things that we need to change or make better screen shot
-25. complete the showcase of Van SolveIT and presented with the Flag THM{AI_MANIA}
+20. Ask AI to analyse logs and it has detected a breach in the system and outputs an analysis of the code
+21. AI tells us that a malicous code was executed.
+22. AI explains the malicious code with helpful insights.
+23. Stage 4 of using Van SolveIT Software
+24. The Software assistant analyses sources code from the exploit with helpful insights and things that we need to change or make better.
+25. Complete the showcase of Van SolveIT and presented with the Flag THM{AI_MANIA}
 
 
 
@@ -59,3 +59,4 @@
 ## Takeaways
 
 Today I learned about how dangerous SQL injections can be and used the attack box to exploit a SQL injection on a vulnerable target. This was a great introduction to the power of AI in cybersecurity. Learned about some  of the cautions and considerations that need to be taken  when using AI in Cyber security. One of the cautions when using AI in cybersecurity is to "Trust but verify" using AI, AI can make mistakes and you need to be aware of that and Verify its output. 
+
