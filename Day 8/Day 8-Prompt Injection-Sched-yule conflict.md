@@ -9,8 +9,6 @@
 
 
 
-
-
 ### Skills Learned/Lessons learned
 
 - Injection Prompting 
@@ -50,3 +48,4 @@
 ## Takeaways
 
 The room today was on Agentic AI I completed it after multiple attempts of prompting and a little bit of directness towards the AI. This challenge was not my favorite, I do understand how you could exploit  Secure tokens and information by prompting after this challenge. 
+
