@@ -61,6 +61,6 @@ Day 7 | Network Discovery - Scan-ta Clause|[View Day 7](https://github.com/cpcar
 Day 8 | Promp Injection - Sched-yule conflict|[View Day 8](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day%208/Day%208-Prompt%20Injection-Sched-yule%20conflict.md) |
 Day 9 | Passwords- A Cracking Christmas|[View Day 9](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day%209/Day%209-Passwords-A%20Cracking%20Christmas.md) 
 Day 10| SOC Alert Triaging-Tinsel Triage|[View Day 10](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/c58fb97cc629ae56515c69534f11322c0b056275/Day10/Advent%20of%20Cyber%20Day%2010%2C%20SOC%20Alert%20Tria.md)
-
+Day 11| XSS-Merry XSSMas|[View Day 11](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day11/Advent%20of%20Cyber%20Day%2011-XSS-Merry%20XSSMas.md)
 
 
