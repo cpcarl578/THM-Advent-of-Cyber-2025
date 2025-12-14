@@ -28,14 +28,14 @@
 
 ### Practical portion
 
-Start the target machine
-Navigate to the link provided
-Review the Third email on VPN access and select three phishing signals Capture flag THM{Impersonation-is-areal-thing-keepIt}
-Review the second email on calls and select the three phishing signals receive the flag THM{nmumber2-was-not-tha-thard}
-Review the first email and tag the three signals for phishing and capture flag THM{yougotnumber1-keep-it-going}
-Review the fourth email and tag it correctly capture the flag THM{Get-back-SOC-mas!!}
-Review email five and properly tag it receive flag THM{It-was-just-a-sp4m!!}
-Review email six and correctly tag it and receive flag THM{number6-is-the-last-one!-DX!}
+* Start the target machine
+* Navigate to the link provided
+* Review the Third email on VPN access and select three phishing signals Capture flag THM{Impersonation-is-areal-thing-keepIt}
+* Review the second email on calls and select the three phishing signals receive the flag THM{nmumber2-was-not-tha-thard}
+* Review the first email and tag the three signals for phishing and capture flag THM{yougotnumber1-keep-it-going}
+* Review the fourth email and tag it correctly capture the flag THM{Get-back-SOC-mas!!}
+* Review email five and properly tag it receive flag THM{It-was-just-a-sp4m!!}
+* Review email six and correctly tag it and receive flag THM{number6-is-the-last-one!-DX!}
 
 ## Takeaways from todays room
 
