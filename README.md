@@ -64,5 +64,7 @@ Day 9 | Passwords- A Cracking Christmas|[View Day 9](https://github.com/cpcarl57
 Day 10| SOC Alert Triaging-Tinsel Triage|[View Day 10](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/c58fb97cc629ae56515c69534f11322c0b056275/Day10/Advent%20of%20Cyber%20Day%2010%2C%20SOC%20Alert%20Tria.md)
 Day 11| XSS-Merry XSSMas|[View Day 11](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day11/Advent%20of%20Cyber%20Day%2011-XSS-Merry%20XSSMas.md)
 Day 12| Phishing-Phishmas Greetings |[View Day 12](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day12/Advent%20of%20Cyber%20Day%2012-Phishing-Phishmas%20Greetings.md)
+Day 13| Coming Soon |Coming Soon
+Day 14| Coming Soon |Coming Soon
 
 
