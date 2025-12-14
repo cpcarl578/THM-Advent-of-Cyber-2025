@@ -3,6 +3,7 @@
 
 
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![Static Badge](https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white&labelColor=black&color=yellow) ![Static Badge](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white&labelColor=red&color=green) ![Static Badge](https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white&labelColor=gray&color=blue)
 
 
