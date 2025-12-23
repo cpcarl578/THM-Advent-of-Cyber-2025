@@ -70,3 +70,4 @@ Day 14| Containers-Doordashers Demise|[View Day 14](https://github.com/cpcarl578
 Day 15| Web Attack Forensics-Drone alone |[View Day 15](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day15/%20Advent%20of%20Cyber%20Day%2015-Web%20Attack%20Forensics)
 Day 16| Forensics-Registry Furensics |[View Day 16](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/edit/main/Advent%20of%20Cyber%20Day%2016-Forensics%20.md)
 Day 17| Cyberchef-Hoperation Save McSkidy|[View Day 17](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/edit/main/Advent%20of%20Cyber%20Day%2017%20Cyberchef.md)
+Day 18| Obfuscation-The Egg Shell File|[View Day 18](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day18/Advent%20of%20Cyber%20Day%20-18-Obfuscation-The%20Egg%20Shell%20F.md)
