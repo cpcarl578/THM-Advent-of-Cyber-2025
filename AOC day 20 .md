@@ -42,4 +42,4 @@
 
 ## Takeaways from todays room
 
-start here
+I really enjoyed todays rooom using burpsuite and seeing why race conditions are important. The hands on portion of exploiting the race conditions was extremely helpful to help me understand what makes race conditions useful in everyday life. 
