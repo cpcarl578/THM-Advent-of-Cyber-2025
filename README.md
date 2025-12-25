@@ -72,3 +72,8 @@ Day 16| Forensics-Registry Furensics |[View Day 16](https://github.com/cpcarl578
 Day 17| Cyberchef-Hoperation Save McSkidy|[View Day 17](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/edit/main/Advent%20of%20Cyber%20Day%2017%20Cyberchef.md)
 Day 18| Obfuscation-The Egg Shell File|[View Day 18](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day18/Advent%20of%20Cyber%20Day%20-18-Obfuscation-The%20Egg%20Shell%20F.md)
 Day 19| ICS/Modbus-Claus for Concern|[View Day 19](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day19/ICS,Modbus-day19.md)
+Day 20| Race conditions-Toy to the world|[View Day 20](https://github.com/cpcarl578/THM-Advent-of-Cyber-2025/blob/main/Day20/AOC%20day%2020-Race%20conditions-toy%20to%20the%20world%20.md)
+Day 21| Malware Analysis-Malhare.exe|[View Day 21]()
+Day 22| C2 Detection-Command & Carol|[View Day 22]()
+Day 23| AWS Security-S3cret Santa|[View Day 23]()
+Day 24| Explotation with cURL-Hoperation Eggsploit|[View Day 24]()
